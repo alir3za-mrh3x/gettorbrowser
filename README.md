@@ -1,4 +1,4 @@
-This repository contains TorBrowser Releases.
+--This repository contains TorBrowser Releases.
 
 TorBrowser releases are stored in a separate branch: https://github.com/TheTorProject/gettorbrowser/tree/torbrowser-releases
 
